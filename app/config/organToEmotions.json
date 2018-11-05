@@ -1,0 +1,6 @@
+export default {
+    organToEmotions: {
+        "Heart": ["Lost","Vulnerable","Confused","Abandoned"],
+        "Spleen Pancreas": ["Low Self Esteem","Worry","Lack of Control"],
+    }
+}
